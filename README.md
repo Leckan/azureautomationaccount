@@ -1,0 +1,2 @@
+# azureautomationaccount
+Azure automation account
